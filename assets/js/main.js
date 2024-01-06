@@ -36,9 +36,9 @@
 
 					// Images (in the format of 'url': 'alignment').
 						images: {
-							'images/bg01.jpg': 'center',
-							'images/bg02.jpg': 'center',
-							'images/bg03.jpg': 'center'
+							'images/florian-wehde-1uWanmgkd5g-unsplash.jpg': 'center',
+							'images/marvin-meyer-SYTO3xs06fU-unsplash.jpg': 'center',
+							'images/roman-kraft-ZoAlN3-pJO8-unsplash.jpg': 'center'
 						},
 
 					// Delay.
