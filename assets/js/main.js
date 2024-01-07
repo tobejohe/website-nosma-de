@@ -37,7 +37,6 @@
 					// Images (in the format of 'url': 'alignment').
 						images: {
 							'images/florian-wehde-1uWanmgkd5g-unsplash.jpg': 'center',
-							'images/marvin-meyer-SYTO3xs06fU-unsplash.jpg': 'center',
 							'images/roman-kraft-ZoAlN3-pJO8-unsplash.jpg': 'center'
 						},
 
